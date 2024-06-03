@@ -31,7 +31,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=peanutZLS&theme=gotham&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=peanutZLS&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=peanutZLS&show_icons=true" width="100%" />
 </picture>
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peanutZLS&theme=vue-dark&line_height=22&layout=compact&hide=less" />
