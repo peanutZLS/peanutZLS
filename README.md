@@ -36,7 +36,7 @@
     </picture>
   </div>
   <div style="flex: 1;">
-     <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peanutZLS&langs_count=10&theme=vue-dark&line_height=22&layout=compact&hide=less" /> 
+     <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peanutZLS&langs_count=20&theme=vue-dark&line_height=22&layout=compact&hide=less" /> 
   </div>
 </div>
 
