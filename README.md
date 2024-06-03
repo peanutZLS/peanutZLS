@@ -36,9 +36,7 @@
     </picture>
   </div>
   <div style="flex: 1;">
-     <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peanutZLS&langs_count=8&theme=vue-dark&line_height=22&layout=compact&hide=less" /> 
+     <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peanutZLS&langs_count=10&theme=vue-dark&line_height=22&layout=compact&hide=less" /> 
   </div>
 </div>
 
-
- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=peanutZLS)](https://github.com/anuraghazra/github-readme-stats)
